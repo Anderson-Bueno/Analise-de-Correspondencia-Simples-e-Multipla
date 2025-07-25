@@ -1,4 +1,4 @@
-# Segmentação de Perfil de Investidores
+# Como segmentar investidores de forma eficiente com base em suas preferências financeiras e características demográficas, usando técnicas estatísticas robustas e interpretáveis
 
 ## Resumo
 
